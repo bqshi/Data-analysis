@@ -1,0 +1,3 @@
+cd/d F:\workspace
+activate py36
+jupyter notebook
